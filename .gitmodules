@@ -1,0 +1,3 @@
+[submodule "Bridgejs"]
+	path = Bridgejs
+	url = git@github.com:neutronstarer/bridge_js.git
